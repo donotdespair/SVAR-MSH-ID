@@ -13,6 +13,11 @@ To refer to the codes in publications, please, cite the following paper:
 
 > Lütkepohl, H., Woźniak, T. (2020) Bayesian Inference for Structural Vector Autoregressions Identified with Markov-Switching Heteroskedasticity, *Journal of Economic Dynamics and Control*, 113, DOI: [10.1016/j.jedc.2020.103862](https://doi.org/10.1016/j.jedc.2020.103862).
 
+## Corrigendum
+
+A correct version of the first equation on the top of page 17 from the Appendix of the paper is given by:
+![](corrigendum.png)
+
 ## Project contents
 
 The project includes:

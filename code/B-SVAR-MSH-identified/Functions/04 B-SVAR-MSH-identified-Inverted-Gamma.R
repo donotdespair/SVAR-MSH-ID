@@ -15,7 +15,7 @@ B.SVAR.MSH.identified.inverted.gamma = function(aux, priors){
    p  = T - TT 
 
    # Draw lambda
-   lambda.a       = priors$lambda.a + 2*TT
+   lambda.a       = priors$lambda.a + TT
    
    lo.tmp         = aux$lambda.omega
    lo.tmp[,1]     = 1

@@ -36,7 +36,7 @@ and select the format of the compressed file to be downloaded.
 
 ## Forking and contributing 
 
-You can also choose to fork the project and clone your copy from the repository. Just follow the steps (requires a [GitLab account](https://gitlab.com):
+You can also choose to fork the project and clone your copy from the repository. Just follow the steps (requires a [GitLab account](https://gitlab.com)):
 
 1. **On this page:** fork the project by clicking the icon on the top of this page ([more info](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#creating-a-fork))
 
@@ -44,4 +44,4 @@ You can also choose to fork the project and clone your copy from the repository.
 
 2. **On you computer:** clone the repository you have just forked to create its local copy that you can work with.
 
-3. **Optional:** if you find a bug or if you improve the code, please feel free to submit a pull/merge request. (more info [here](https://docs.gitlab.com/ee/topics/gitlab_flow.html#mergepull-requests-with-gitlab-flow))
+3. **Optional:** if you find a bug or if you improve the code, please feel free to submit a pull/merge request. ([more info](https://docs.gitlab.com/ee/topics/gitlab_flow.html#mergepull-requests-with-gitlab-flow))

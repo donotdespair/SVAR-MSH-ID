@@ -28,12 +28,20 @@ The project includes:
 
 ## Downloading the codes
 
-To download the codes follow the steps (requires a [GitHub account](https://github.com) and [GitHub Desktop](https://desktop.github.com/)):
+To download the codes simply click on the download icon on the top of this page
 
-1. **On this page:** fork the project by clicking the icon on the top of this page ([more info](https://guides.github.com/activities/forking/))
+![](gl-download.png)
 
-   ![](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+and select the format of the compressed file to be downloaded.
 
-2. **In GitHub Desktop:** go to the application menu to select: `File -> Clone Repository...`, choose the forked repository from the list of available repositories from GitHub.com, select your local folder to store the repository, and click `Clone`. ([even more info](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
+## Forking and contributing 
 
-3. **Optional:** if you find a bug or if you improve the code, please feel free to submit a pull request. (more info [here](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and [here](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+You can also choose to fork the project and clone your copy from the repository. Just follow the steps (requires a [GitLab account](https://gitlab.com):
+
+1. **On this page:** fork the project by clicking the icon on the top of this page ([more info](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html#creating-a-fork))
+
+   ![](gl-fork.png)
+
+2. **On you computer:** clone the repository you have just forked to create its local copy that you can work with.
+
+3. **Optional:** if you find a bug or if you improve the code, please feel free to submit a pull/merge request. (more info [here](https://docs.gitlab.com/ee/topics/gitlab_flow.html#mergepull-requests-with-gitlab-flow))

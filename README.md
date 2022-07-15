@@ -22,7 +22,7 @@ A correct version of the first equation on the top of page 17 from the Appendix 
 
 The project includes:
 
-- folder `codes` with the whole source code
+- folder `code` with the whole source code
 - R files for the reproduction of most of the results from the paper
 - file `dataBI2015.RData` with data used in the paper
 
